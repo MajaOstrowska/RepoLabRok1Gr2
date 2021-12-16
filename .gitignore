@@ -51,6 +51,7 @@ Plugins/*/Binaries/*
 
 # Builds
 MazeRok1MO/Build/*
+MazeRok1MO/Builds/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
